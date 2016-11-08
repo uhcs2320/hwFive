@@ -1,16 +1,16 @@
-# hw5, Devhire. Due date: 11/16 11:50 p.m. 
+# hw5, Devhire. Due date: 11/16 11:50 p.m.
 
-You will create a C++ program that will simulate the selection (via sorting) of candidates to a ficticious Top-6 company that hires CS majors. 
-In real companies/organizations, selection of applicants follows a well-thought procedure that is extremely unlikely to mirror the selection method in this programming assignment. 
+You will create a C++ program that will simulate the selection (via sorting) of candidates to a ficticious Top-6 company that hires CS majors.
+In real companies/organizations, selection of applicants follows a well-thought procedure that is extremely unlikely to mirror the selection method in this programming assignment.
 The fundamental data structure concept to practice is sorting.
 
 ## Input
 
 The input is a plain-text file, where each line is terminated with an end-of-line character.
-Each line will identify an applicant to join the top-6 ficticious company. 
+Each line will identify an applicant to join the top-6 ficticious company.
 Lines in the input file that start with the symbol # should be considered comments and therefore skipped.
 
-Each line will have a fixed set of data, separated by the `tab` character (that is, `\t`). 
+Each line will have a fixed set of data, separated by the `tab` character (that is, `\t`).
 
 The data of each line are as follows:
 
@@ -82,6 +82,7 @@ Doan
 Kevin
 Alexandro
 Akshay
+Krishan Desai
 
 ## Heapsort
 
@@ -94,4 +95,3 @@ Joshua
 ## Slightly related notes
 
   * Anecdotal comment of 80% of graduating CS majors going to 5 companies [via @paulg](https://twitter.com/paulg/status/740027492665331712)
-
