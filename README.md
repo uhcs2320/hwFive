@@ -74,7 +74,8 @@ The output of your program should not have empty lines or comments.
 1. Benson
 1. Rafael
 1. Farhan
-1.  Mike
+1. Mike
+1. Derreck
 
 ## Mergesort
 
