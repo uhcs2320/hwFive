@@ -71,18 +71,25 @@ The output of your program should not have empty lines or comments.
 
 ## Quicksort
 
-Olaf
-
+Benson
+Rafael
+Farhan
 
 ## Mergesort
 
-Sven
-
+Rogelio
+Doan
+Kevin
+Alexandro
+Akshay
 
 ## Heapsort
 
-Frozen
-
+Feng
+Nancy
+Junaid
+Maniroth
+Joshua
 
 ## Slightly related notes
 
