@@ -71,27 +71,27 @@ The output of your program should not have empty lines or comments.
 
 ## Quicksort
 
-Benson
-Rafael
-Farhan
-Mike
+1. Benson
+1. Rafael
+1. Farhan
+1.  Mike
 
 ## Mergesort
 
-Rogelio
-Doan
-Kevin
-Alexandro
-Akshay
-Krishan Desai
+1. Rogelio
+1. Doan
+1. Kevin
+1. Alexandro
+1. Akshay
+1. Krishan Desai
 
 ## Heapsort
 
-Feng
-Nancy
-Junaid
-Maniroth
-Joshua
+1. Feng
+1. Nancy
+1. Junaid
+1. Maniroth
+1. Joshua
 
 ## Slightly related notes
 
