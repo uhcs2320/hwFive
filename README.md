@@ -157,6 +157,7 @@ The output would be:
 1. Alexandro
 1. Akshay
 1. Krishan Desai
+1. Xiantian
 
 ## Heapsort
 
@@ -166,6 +167,7 @@ The output would be:
 1. Maniroth
 1. Joshua
 1. Shara
+1. Paul
 
 ## Random related notes
 
