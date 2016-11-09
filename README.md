@@ -147,6 +147,7 @@ The output would be:
 1. Mike
 1. Derreck
 1. Chelsea
+1. Kim P.
 
 ## Mergesort
 
