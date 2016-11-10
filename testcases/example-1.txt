@@ -1,0 +1,19 @@
+# Example 1 from the description of the assignment
+Olaf	1.0	876	undisclosed	olaf.2016.iced
+Anna	4.0	976	female	anna.2016.arandelle
+Elsa	2.4	476	female	elsa.2016.queen
+Krystoff	1.4	196	male	krystofe.2016.iceguy
+Sven	0.4	16	prefernottoanswer	
+Madelleine	2.9	397	female	
+Frenchy	2.9	397	male	
+Lexie	3.1	479	female	
+Lex	3.1	479	male	
+Batman	3.2	543	male	
+Coulson	3.4	765	male	
+Director	3.4	765	unspecified	
+Robot	3.1	479	prefernottoanswer		
+Skye	3.4	765	female	
+Supergirl	3.8	876	female	
+Superman	3.8	876	male	
+Wonderworman	3.2	543	female	
+instructions	2	2	2
