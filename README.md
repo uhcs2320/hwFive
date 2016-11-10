@@ -149,6 +149,7 @@ The output would be:
 1. Chelsea
 1. Kim P.
 1. Abdul
+1. Katelyn
 
 ## Mergesort
 
