@@ -170,6 +170,7 @@ The output would be:
 1. Joshua
 1. Shara
 1. Paul
+1. Heapsort
 
 ## Random related notes
 
