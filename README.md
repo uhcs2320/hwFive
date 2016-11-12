@@ -160,6 +160,7 @@ The output would be:
 1. Akshay
 1. Krishan Desai
 1. Xiantian
+1. Brandon G
 
 ## Heapsort
 
