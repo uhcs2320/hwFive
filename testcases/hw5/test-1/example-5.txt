@@ -1,0 +1,14 @@
+Aicrag	1	999	prefernottoanswer	olaf.2016.iced
+Flores	1	843	other	
+Jackson	1	687	notsaying	
+Noskcaj	1	531	prefernottoanswer	
+Rodriguez	1	375	Imnotsaying	
+Williams	1	219	notsaying	
+wrongmajor	1	1	unspecified	
+Davis	2.8	921	unspecified	krystofe.2016.iceguy
+Gonzales	2.8	765	Imnotsaying	elsa.2010.queen
+Lopez	2.8	609	notasnwering	anna.20201.arandelle
+Nworb	2.8	453	unspecified	
+Serolf	2.8	297	other	
+Zednanreh	2.8	141	notasnwering	
+instructions	10	10	10	
