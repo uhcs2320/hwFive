@@ -150,6 +150,7 @@ The output would be:
 1. Kim P.
 1. Abdul
 1. Katelyn
+1. Akshay
 
 ## Mergesort
 
@@ -157,7 +158,6 @@ The output would be:
 1. Doan
 1. Kevin
 1. Alexandro
-1. Akshay
 1. Krishan Desai
 1. Xiantian
 1. Brandon G
