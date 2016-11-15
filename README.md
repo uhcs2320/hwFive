@@ -1,4 +1,6 @@
-# hw5, Devhire. Due date: 11/16 11:50 p.m.
+# hw5, Devhire. Due date: 11/16 11:50 p.m. (+7 points)
+
+# Postponed Due date: 11/20 11:50 p.m. folder must be named: hw5post
 
 You will create a C++ program that will simulate the selection (via sorting) of candidates to a ficticious Top-6 company that hires CS majors.
 In real companies/organizations, selection of applicants follows a well-thought procedure that is extremely unlikely to mirror the selection method in this programming assignment.
