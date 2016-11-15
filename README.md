@@ -172,7 +172,8 @@ The output would be:
 1. Joshua
 1. Shara
 1. Paul
-1. Heapsort
+1. Adeleke
+
 
 ## Random related notes
 
