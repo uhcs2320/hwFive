@@ -164,6 +164,7 @@ The output would be:
 1. Xiantian
 1. Brandon G
 1. Jason
+1. Max
 
 ## Heapsort
 
