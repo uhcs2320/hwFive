@@ -15,5 +15,5 @@ Robot	3.1	479	prefernottoanswer
 Skye	3.4	765	female	
 Supergirl	3.8	876	female	
 Superman	3.8	876	male	
-Wonderworman	3.2	543	female	
+Wonderwoman	3.2	543	female	
 instructions	2	2	2
