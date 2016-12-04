@@ -1,0 +1,42 @@
+Aicrag	1	999	prefernottoanswer	olaf.2016.iced
+Flores	1	843	other	
+Jackson	1	687	notsaying	
+Noskcaj	1	531	prefernottoanswer	
+Rodriguez	1	375	Imnotsaying	
+Williams	1	219	notsaying	
+Zepol	1	63	female	
+Azrag	1.6	973	female	anna.2016.arandelle
+Garcia	1.6	817	female	olaf.2010.iced
+Johnson	1.6	661	female	
+Nosliw	1.6	505	female	
+Selaznog	1.6	349	female	
+Wilson	1.6	193	female	
+Zerep	1.6	37	female	
+wrongmajor	1	1	unspecified	
+Brown	2.2	947	male	elsa.2016.queen
+Garza	2.2	791	male	anna.201.arandelle
+Jones	2.2	635	male	olaf.2020.iced
+Nosnhoj	2.2	479	male	
+Senoj	2.2	323	male	
+Ykswinered	2.2	167	male	
+Davis	2.8	921	unspecified	krystofe.2016.iceguy
+Gonzales	2.8	765	Imnotsaying	elsa.2010.queen
+Lopez	2.8	609	notasnwering	anna.20201.arandelle
+Nworb	2.8	453	unspecified	
+Serolf	2.8	297	other	
+Zednanreh	2.8	141	notasnwering	
+Dereniwsky	3.4	895	female	
+Gonzalez	3.4	739	female	krystofe.201.iceguy
+Martinez	3.4	583	female	elsa.2020.queen
+Perez	3.4	427	female	
+Sivad	3.4	271	female	
+Zelaznog	3.4	115	female	
+Zerimar	3.4	11	male	
+Eroom	4	869	male	
+Hernandez	4	713	male	
+Moore	4	557	male	krystofe.2020.iceguy
+Ramirez	4	401	male	
+Smailliw	4	245	male	
+Zenitram	4	89	male	
+Zeugirdor	4	1	male	
+instructions	3	3	3	
